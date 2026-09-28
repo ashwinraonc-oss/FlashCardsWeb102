@@ -51,6 +51,8 @@ default mac screen recorder and https://www.imageurlgenerator.com/gif-to-url
 
 Describe any challenges encountered while building the app.
 
+Creating the 3d flip was probably the hardest part since we hadn't really gone over that in class. I had to switch from a ternary operator that switched between the front and the back to 2 separate div elements for each card side that changed based on a conditional className change. 
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
